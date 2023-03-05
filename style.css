@@ -245,13 +245,13 @@ span {
 .avatar {
     cursor: pointer;
     position: absolute;
-    top: 50%;
+    top: 25%;
     left: calc(50% - 100px);
 }
 
 .avatar__img {
     width: 200px;
-    height: 200px;
+    height: 100px;
     border-radius: 50%;
     border: 5px solid rgba(234, 15, 150, 0.9);
     box-shadow: inset 10px 10px 10px rgba(15, 219, 234, 0.9);
